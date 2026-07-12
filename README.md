@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 3rd Student at NIT Hamirpur pursing B.Tech in Electronics and Communication Engineering. I have deep passion for web development and blockchain development.
+I am a Final Year Student at NIT Hamirpur pursing B.Tech in Electronics and Communication Engineering. 
 
 
 
